@@ -1,0 +1,19 @@
+.container .text {
+    background-color: yellow;
+    color: rgb(255,0,0);
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+/*Some extra tests on my own */
+
+.container p {
+    background-color: orange;
+    font-family: Helvetica, sans-serif;
+    text-align: right;
+}
+
+p {
+    color: green;
+}
