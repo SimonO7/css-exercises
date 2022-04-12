@@ -16,7 +16,7 @@ img {
 
 .information-box {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   margin: 30px;
   gap: 20px;
 }
@@ -26,6 +26,7 @@ img {
   flex-direction: column;
   /*border: 3px green solid;*/
   align-items: center;
+  max-width: 200px;
 }
 
 .text {
